@@ -1,0 +1,9 @@
+{
+  "name": "mern-testing",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
+
